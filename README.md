@@ -150,4 +150,7 @@
 
 - [Data science intern course](https://www.youtube.com/playlist?list=PL7zl8TDRnbul57eQ-8R5r9h1028aLoQXT)
 
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+
 You can add more in this list . Lets help the community !
